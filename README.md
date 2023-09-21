@@ -1,2 +1,2 @@
 # Beginner
-My first Change
+My first steps in GitHub
